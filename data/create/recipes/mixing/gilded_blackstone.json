@@ -1,0 +1,68 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:blackstone"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        },
+        {
+            "tag": "forge:nuggets/gold"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:gilded_blackstone"
+        }
+    ],
+    "heatRequirement": "heated"
+}

@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:blackstone"
+        },
+        {
+            "tag": "forge:nuggets/electrum"
+        },
+        {
+            "tag": "forge:nuggets/electrum"
+        },
+        {
+            "tag": "forge:nuggets/electrum"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:gilded_blackstone"
+        }
+    ],
+    "heatRequirement": "superheated"
+}

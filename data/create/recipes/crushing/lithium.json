@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "tfmg"
+		}
+	],
+	"type": "create:crushing",
+	"ingredients": [
+		{
+			"item": "tfmg:lithium_ore"
+		}
+	],
+	"results": [
+		{
+			"item": "tfmg:raw_lithium",
+			"count": 2
+		},
+		{
+			"item": "tfmg:raw_lithium",
+			"count": 4,
+			"chance": 0.25
+		}
+	],
+	"processingTime": 250
+}
