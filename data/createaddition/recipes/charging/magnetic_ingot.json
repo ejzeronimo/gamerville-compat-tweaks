@@ -1,0 +1,13 @@
+{
+	"type":"createaddition:charging",
+	"input": {
+      	"tag": "forge:ingots/steel",
+		"count": 1
+	},
+	"result": {
+		"item": "tfmg:magnetic_ingot",
+		"count": 1
+	},
+	"energy": 5000,
+	"maxChargeRate": 500
+}
