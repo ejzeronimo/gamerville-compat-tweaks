@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "gamerville:aquatic_bauxite_vent",
+    "gamerville:aquatic_galena_vent",
+    "gamerville:aquatic_lignite_vent"
+  ],
+  "step": "vegetal_decoration"
+}
