@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "c": {
+            "item": "immersiveengineering:conveyor_extract"
+        },
+        "s": {
+            "tag": "immersiveengineering:scaffoldings/steel"
+        }
+    },
+    "pattern": [
+        "s",
+        "c"
+    ],
+    "result": {
+        "item": "minecraft:air",
+        "count": 1
+    },
+    "show_notification": false
+}

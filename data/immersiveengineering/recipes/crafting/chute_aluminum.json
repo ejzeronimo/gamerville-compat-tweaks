@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "s": {
+            "tag": "forge:sheetmetals/aluminum"
+        }
+    },
+    "pattern": [
+        "s s",
+        "s s",
+        "s s"
+    ],
+    "result": {
+        "item": "minecraft:air",
+        "count": 1
+    },
+    "show_notification": true
+}

@@ -1,11 +1,11 @@
 {
 	"type":"createaddition:charging",
 	"input": {
-      	"tag": "forge:ingots/steel",
+      	"tag": "tfmg:magnetic_alloy_ingot",
 		"count": 1
 	},
 	"result": {
-		"item": "tfmg:magnetic_ingot",
+		"item": "tfmg:magnet",
 		"count": 1
 	},
 	"energy": 5000,
