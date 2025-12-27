@@ -1,0 +1,47 @@
+{
+    "type": "molten_vents:molten_vent",
+    "config": {
+        "decorativeBlock": {
+            "type": "minecraft:weighted_state_provider",
+            "entries": [
+                {
+                    "weight": 10,
+                    "data": {
+                        "Name": "tfmg:lignite"
+                    }
+                }
+            ]
+        },
+        "outerBlock": {
+            "type": "minecraft:weighted_state_provider",
+            "entries": [
+                {
+                    "weight": 10,
+                    "data": {
+                        "Name": "tfmg:lignite"
+                    }
+                }
+            ]
+        },
+        "innerBlock": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+                "Name": "molten_vents:dormant_molten_lignite"
+            }
+        },
+        "liquidBlock": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+                "Name": "minecraft:lava"
+            }
+        },
+        "depth": {
+            "type": "minecraft:uniform",
+            "value": {
+                "min_inclusive": 20,
+                "max_inclusive": 35
+            }
+        },
+        "underwater": true
+    }
+}

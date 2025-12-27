@@ -1,0 +1,9 @@
+{
+    "block.molten_vents.active_molten_lignite": "Active Molten Lignite",
+    "block.molten_vents.active_molten_bauxite": "Active Molten Bauxite",
+    "block.molten_vents.active_molten_galena": "Active Molten Galena",
+  
+    "block.molten_vents.dormant_molten_lignite": "Dormant Molten Lignite",
+    "block.molten_vents.dormant_molten_bauxite": "Dormant Molten Bauxite",
+    "block.molten_vents.dormant_molten_galena": "Dormant Molten Galena"
+  }
