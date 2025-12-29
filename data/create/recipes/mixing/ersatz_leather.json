@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "tag": "forge:fabric_hemp"
+        },
+        {
+            "amount": 125,
+            "fluidTag": "forge:plantoil"
+        }
+    ],
+    "results": [
+        {
+            "count": 1,
+            "item": "immersiveengineering:ersatz_leather"
+        }
+    ],
+    "heatRequirement": "none"
+}

@@ -1,0 +1,15 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "fluidTag": "forge:liquid_silicon",
+            "amount": 90
+        }
+    ],
+    "results": [
+        {
+            "tag": "forge:ingots/silicon"
+        }
+    ],
+    "heatRequirement": "none"
+}

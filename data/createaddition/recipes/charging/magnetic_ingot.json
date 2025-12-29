@@ -1,7 +1,7 @@
 {
 	"type":"createaddition:charging",
 	"input": {
-      	"tag": "tfmg:magnetic_alloy_ingot",
+      	"item": "tfmg:magnetic_alloy_ingot",
 		"count": 1
 	},
 	"result": {

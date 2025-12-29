@@ -1,0 +1,17 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+        {
+            "amount": 125,
+            "fluidTag": "forge:redstone_acid"
+        },
+        {
+            "item": "minecraft:weathered_copper"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:oxidized_copper"
+        }
+    ]
+}

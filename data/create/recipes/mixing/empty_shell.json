@@ -1,0 +1,25 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "tag": "forge:nuggets/copper"
+        },
+        {
+            "tag": "forge:nuggets/copper"
+        },
+        {
+            "tag": "forge:nuggets/copper"
+        },
+        {
+            "amount": 250,
+            "fluidTag": "forge:phenolic_resin"
+        }
+    ],
+    "results": [
+        {
+            "count": 2,
+            "item": "immersiveengineering:empty_shell"
+        }
+    ],
+    "heatRequirement": "none"
+}

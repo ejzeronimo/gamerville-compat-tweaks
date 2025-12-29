@@ -1,0 +1,59 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "tag": "forge:dusts/aluminum"
+        },
+        {
+            "tag": "forge:dusts/aluminum"
+        },
+        {
+            "tag": "forge:dusts/aluminum"
+        },
+        {
+            "tag": "forge:dusts/aluminum"
+        },
+        {
+            "tag": "forge:dusts/aluminum"
+        },
+        {
+            "tag": "forge:dusts/aluminum"
+        },
+        {
+            "tag": "forge:fiber_hemp"
+        },
+        {
+            "tag": "forge:fiber_hemp"
+        },
+        {
+            "tag": "forge:fiber_hemp"
+        },
+        {
+            "tag": "forge:fiber_hemp"
+        },
+        {
+            "tag": "forge:fiber_hemp"
+        },
+        {
+            "tag": "forge:fiber_hemp"
+        },
+        {
+            "tag": "forge:fiber_hemp"
+        },
+        {
+            "tag": "forge:fiber_hemp"
+        },
+        {
+            "amount": 500,
+            "fluidTag": "forge:phenolic_resin"
+        }
+    ],
+    "results": [
+        {
+            "count": 1,
+            "item": "immersiveengineering:grindingdisk",
+            "nbt": "{Damage:0}"
+        }
+    ],
+    "heatRequirement": "none"
+}

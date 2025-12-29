@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "minecraft:logs"
+    }
+  ],
+  "processingTime": 20,
+  "results": [
+    {
+      "item": "immersiveengineering:dust_wood",
+      "count": 9
+    }
+  ]
+}

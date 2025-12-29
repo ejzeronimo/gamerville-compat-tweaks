@@ -1,0 +1,16 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "fluidTag": "forge:molten_steel",
+            "amount": 90
+        }
+    ],
+    "results": [
+        {
+            "tag": "forge:ingots/steel",
+            "amount": 1
+        }
+    ],
+    "heatRequirement": "none"
+}

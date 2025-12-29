@@ -1,0 +1,15 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "fluidTag": "forge:phenolic_resin",
+            "amount": 250
+        }
+    ],
+    "results": [
+        {
+            "item": "immersiveengineering:plate_duroplast"
+        }
+    ],
+    "heatRequirement": "heated"
+}

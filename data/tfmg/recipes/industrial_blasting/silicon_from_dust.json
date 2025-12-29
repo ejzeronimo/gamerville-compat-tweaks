@@ -1,0 +1,16 @@
+{
+  "type": "tfmg:industrial_blasting",
+  "hotAirUsage": 0,
+  "ingredients": [
+    {
+      "tag": "ae2:all_quartz_dust"
+    }
+  ],
+  "processingTime": 5,
+  "results": [
+    {
+      "amount": 180,
+      "fluid": "tfmg:liquid_silicon"
+    }
+  ]
+}

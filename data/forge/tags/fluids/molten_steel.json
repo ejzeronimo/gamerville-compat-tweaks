@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "values": [
+        "tfmg:flowing_molten_steel",
+        "tfmg:molten_steel"
+    ]
+}

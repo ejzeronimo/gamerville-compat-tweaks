@@ -1,0 +1,18 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "tag": "forge:ingots/copper"
+        },
+        {
+            "tag": "forge:ingots/aluminum"
+        }
+    ],
+    "results": [
+        {
+            "fluid": "createbigcannons:molten_bronze",
+            "amount": 90
+        }
+    ],
+    "heatRequirement": "heated"
+}

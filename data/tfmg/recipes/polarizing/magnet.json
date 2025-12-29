@@ -1,13 +1,1 @@
-{
-  "type": "tfmg:polarizing",
-  "ingredients": [
-    {
-      "item": "tfmg:magnetic_alloy_ingot"
-    }
-  ],
-  "results": [
-    {
-      "item": "minecraft:air"
-    }
-  ]
-}
+{}
